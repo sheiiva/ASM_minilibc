@@ -43,4 +43,4 @@ Here are the functions implemented in the MiniLibC:
 
  > other rules: `make fclean`, `make clean`, `make re`
 
-Author **Corentin COUTRET-ROZET**
+Author [**Corentin COUTRET-ROZET**](https://github.com/sheiiva)
